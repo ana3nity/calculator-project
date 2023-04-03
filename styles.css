@@ -19,3 +19,7 @@ body {
 .calc-button-row {
     border: 3px solid blue;
 }
+
+.screen {
+    text-align: right;
+}
