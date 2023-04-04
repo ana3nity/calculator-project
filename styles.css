@@ -14,6 +14,7 @@ body {
     color: #fff;
     margin: 10rem auto;
     background-color: #e0bbe4;
+    box-sizing: border-box;
 }            
 
 .calc-button-row {
@@ -42,11 +43,11 @@ body {
 }
 
 .calc-button:hover {
-    background: #ebebeb;
+    background: #ffe8e5;
 }
 
 .calc-button:active {
-    background: #bbbcbe;
+    background: #b86b77;
 }
 
 .double {
