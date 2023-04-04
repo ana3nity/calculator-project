@@ -63,9 +63,9 @@ background-color: #fffce6;
 }
 
 .calc-button:last-child:hover {
-    background-color: #d4db9c;
+    background-color: #b4db9c;
 }
 
 .calc-button:last-child:active {
-    background-color: #b4db9c;
+    background-color: #45553a;
 }
